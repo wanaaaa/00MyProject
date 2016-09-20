@@ -1,5 +1,5 @@
 
-package com.ubun17.stockanalysis.APIObject.FindCompanySymbol;
+package com.ubun17.stockanalysis.APIobjectA.CompanySymbol;
 
 import com.google.gson.annotations.Expose;
 import com.google.gson.annotations.SerializedName;

@@ -2,6 +2,9 @@ package com.ubun17.stockanalysis.APIcall;
 
 import android.util.Log;
 
+import com.google.gson.Gson;
+import com.ubun17.stockanalysis.APIobjectA.Chart.ValueByTime;
+
 import java.io.IOException;
 
 import okhttp3.OkHttpClient;
@@ -26,12 +29,17 @@ public class MarkitChartAPI {
 
         try {
             Response response = markitClient.newCall(markitRequest).execute();
-            if(!response.isSuccessful()) throw  new IOException("Unecpeted " + response);
+            if(!response.isSuccessful()) throw  new IOException("Unexpeted " + response);
             if (!response.isSuccessful()) {
                 Log.d("Markit", "Bad request"+"///////////////");
             } else {
                 String responBody = response.body().string();
-                Log.d("The respond is ", responBody);
+                Gson gson = new Gson();
+                ValueByTime valueByTime =gson.fromJson(responBody, ValueByTime.class);
+                //ValueByTime valueByTime = gson.fromJson(responBody, ValueByTime.class);
+                double test = valueByTime.getElements().get(0).getDataSeries()
+                        .getClose().getValues().get(0);
+                Log.d("The respond is ", String.valueOf(test));
             }
 
         } catch (IOException e) {

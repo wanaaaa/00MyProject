@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 
 import com.google.gson.Gson;
-import com.ubun17.stockanalysis.APIObject.FindCompanySymbol.LookUpCompanies;
+import com.ubun17.stockanalysis.APIobjectA.CompanySymbol.LookUpCompanies;
 import com.ubun17.stockanalysis.APIcall.MarkitAsyncCalling;
 
 import java.io.IOException;
