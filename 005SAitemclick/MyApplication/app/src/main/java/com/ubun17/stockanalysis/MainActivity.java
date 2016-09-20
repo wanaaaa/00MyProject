@@ -12,6 +12,7 @@ import android.widget.ListView;
 
 import com.google.gson.Gson;
 import com.ubun17.stockanalysis.APIObject.FindCompanySymbol.LookUpCompanies;
+import com.ubun17.stockanalysis.APIcall.MarkitAsyncCalling;
 
 import java.io.IOException;
 import java.util.ArrayList;
@@ -66,7 +67,10 @@ public class MainActivity extends AppCompatActivity {
         mListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-                Log.d("List Item", "I am clicked/////////////////");
+                String stSymbol = mArrayList.get(position);
+                Log.d("List Item", stSymbol + "///////////////////////");
+                MarkitAsyncCalling call = new MarkitAsyncCalling();
+                call.execute(stSymbol);
             }
         });
 
