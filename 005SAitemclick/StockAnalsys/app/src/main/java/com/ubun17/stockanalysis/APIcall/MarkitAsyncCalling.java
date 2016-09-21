@@ -10,7 +10,7 @@ import java.util.List;
 public class MarkitAsyncCalling extends AsyncTask<String, Double, List<String>> {
     @Override
     protected List<String> doInBackground(String... params) {
-        MarkitChartAPI apiCalling = new MarkitChartAPI("asdf");
+        MarkitChartAPI apiCalling = new MarkitChartAPI(params[0]);
         apiCalling.MarkitChartCalling();
         return null;
     }

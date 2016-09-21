@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-maps-9.4.0_ae7d9c75cf4afe4482ff8b0af2cc0e0be449c6d4.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-panorama-9.4.0_16388a6bd4b6a361c4f615ecfbb3c1ca9fd98495.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_78c83763df2d1756eeb84bf43e4fa450549ab06d.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-messaging-9.4.0_8eddfc5cf7719f578f3cb7c038c23bb0ef543cb3.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-9.4.0_b0d6da7ee357e8d7c2eaca8109b60ef6607f105c.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-lite-9.4.0_82462db563d1a980b2b48399aa02ea8616faa71a.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-clearcut/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-clearcut-9.4.0_10fb7fa39602436216b757fd22ff27538a788e5b.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_1fe8d63dbc61f0573f3703a4c1a017e11307e51b.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-fitness-9.4.0_369b780bd80a971158a4caabf2081127bb598ae2.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-contextmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-contextmanager-9.4.0_c3c5f967412f1babc7e48eee265f06333559769a.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-common-9.4.0_d10a2d11f55875862a88739e74831e51c23c1d00.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_091894bd4f19a13633f56e55569817cc2edf38cd.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_eaa79b6cd40a36d1118bcacc80b38d61ef8ddc0d.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_573d15cfe30e904988e03c7c62977f0d15a912be.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-identity-9.4.0_3de68b4f2470fb91fcd44555d3e7d974c29d6706.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-module-9.4.0_1a5c023dd2efa4b1d96310b1825d69f9cbacecdd.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_6fd91cd7fa743bfc005b143773fa9a51329e9660.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-9.4.0_74fb920c2bd42729bfdb1db28dba5b1fc91de1e9.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-games-9.4.0_fa9f36e2d289786e8f23fffedb9beffb7748b06f.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-nearby-9.4.0_d4ea6582f6a9f9540fa1d799d69a48973f47fd28.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_f19685462f1dbf7421185089f2be206312e21c72.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-9.4.0_c3d5c072738c9e23ca373328825c57173e47fb8a.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_0ec664e297c3ed80305c2bc81509d4a96f216971.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-drive-9.4.0_dfbfc802c8a9caa24d63d0e2664a78758a4f0e1f.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_89e5cbbc27cb31861e8551c1a281576008bc3ccc.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appinvite-9.4.0_f98111add133cb4472971ec2beb75f5091b4b445.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-9.4.0_b04feef4515e0c711b8225bc548724a6c6ff4cf4.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-impl-9.4.0_ab5002628430b40a2ff4cc1ce18fa035c4bd72e3.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.0_ccd0d2c9667ea0efd25cc4422f17e3db2aca9694.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.4.1/c7c4f9e35c2fd5900da24f9872e3971801f08ce0/okhttp-3.4.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/okhttp-3.4.1_c98d06a093b0497f08450fe0b6592bcea0c6a0df.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-base-9.4.0_7b45d43672a5c36f72ed2b57c8fa3305cea4dcd4.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_16e01403b4586ceef670ffc112e6c5b77d3903aa.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-config-9.4.0_be57934bde006ccacf076717a0335af1fd11243d.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_92f193a4f734737783c62175a436ea9d51de450e.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.7/751f548c85fa49f330cecbb1875893f971b33c4e/gson-2.7.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="751f548c85fa49f330cecbb1875893f971b33c4e">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/gson-2.7_9adc44e829ed0304e9fd0bb9dbea97f555ccde8e.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-safetynet-9.4.0_bbd7122e1f9b975ada3c9dec6ffde2a0df290ec9.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-places-9.4.0_b78de20bbb271a2a689f79765079de8171831a35.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-9.4.0_bade05ce871e0400e46536148d63c0f723696b41.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gass/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gass-9.4.0_169580b0be5f1751f13429db3ee016527d94bad9.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_88e53a9b99e173e12bbaaa94ee88c4f3be44b77c.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wallet-9.4.0_d58818e9d4453c26f615c389904479fd719ff17e.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-gcm-9.4.0_0f24378f4e53696b2921b3bb632418af9766ade0.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.4.0_47df88ff71de63420dc74ee3cbad214a0c56994e.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-auth-9.4.0_7358d1e86af4053664571f8630a5e15ca5523c73.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-ads-9.4.0_4193c5cc433968020a723bab2dddce3eaaa8a8f6.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-database-connection-9.4.0_6d9a7b724f8c3f5b95182a2909fe27fef08dc721.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-crash-9.4.0_e366c4f45c0882f97e6fada41743c491faae96ce.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-storage-common-9.4.0_53e9a335f50be86bedf28958fb6f6f60503ce1b6.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-analytics-9.4.0_9f36a9348a0feed8456c72ed3b17952da808b0fc.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_9adf3eb393b9c32eafb8e1ffad0e306d294268f6.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_2b18f5ade2b92447a8950b1df028474c648fde69.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-analytics-impl-9.4.0_a4ca4abeac1f777d86d1ddce877be0769d39fbed.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-iid-9.4.0_4568b60290d889e92c5c9f1943717786432c73e4.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-vision-9.4.0_18768395bf1331f0491d6a4e230cbd883b378233.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-location-9.4.0_977689491ba2f6a6dc3c63c6469078d0a5b3de32.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.9.0/f824591a0016efbaeddb8300bee54832a1398cfa/okio-1.9.0.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/okio-1.9.0_f1b4660762344d42f7a4c63151a1ac3316ad0504.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_f6f3df904124292ddbed364033aa64312a05121e.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_2823ed75342ea8ac16f25b381a707ced0b01343e.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_8e3d22e0fd1c2fe1052c9149158a5f6cbbd0d235.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_ccb98c397dc0e0bcb919ba7a9c85be7430bb9ff8.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-wearable-9.4.0_8b713af8b4aa186653bd0e751c6eb7805f32f824.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-cast-framework-9.4.0_a2f4c6ea0a4d3277d08618aca080e8bac2bf5436.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-mediarouter-v7-23.0.0_f87148c451278dd154d7a7d1dba771835f1a1363.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-auth-9.4.0_f727107c938deff21a9dfa830ab8dc4dd0ceacbc.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_8fa43441e8fae6d4c53ff59abbd173f8808998af.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tagmanager-api-9.4.0_0365cb043c07dec9a2b717381944d2f9d9b068a7.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-iid-9.4.0_fb845d20f3e019b544ed9aa33c2525cf8abfdb71.jar" />
+    </item>
+    <item
+        jar="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="/Users/wanmac/Documents/000Android/project/00MyProject/004SAtToClass/StockAnalysis/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-plus-9.4.0_bab6bf2014fdc9d0e1ec5c914d91cc284ffeb5d7.jar" />
+    </item>
+
+</items>

@@ -22,7 +22,8 @@ import java.util.List;
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
-public class MainActivity extends AppCompatActivity {
+public class
+MainActivity extends AppCompatActivity {
     Button buTest01, butest02, buSearch;
     EditText searchTerm;
 
@@ -63,6 +64,23 @@ public class MainActivity extends AppCompatActivity {
                 List<String[]> scoreList = csvFile.read();
                 String test = scoreList.get(1)[0];
                 Log.d("csv", test+"///////////////////////////////////////////////////");
+
+                int numCom = scoreList.size();
+                Log.d("the size of scoreList", String.valueOf(numCom));
+                for (int i = 1; i < 15; i ++) {
+                    String stSymbol = scoreList.get(i)[0];
+
+                    Log.d("Symbol List", stSymbol);
+                    MarkitAsyncCalling call = new MarkitAsyncCalling();
+                    call.execute(stSymbol);
+
+                    try {
+                        Thread.sleep(300);
+                    } catch (InterruptedException e) {
+                        e.printStackTrace();
+                    }
+
+                }
             }
         });//End of Buton01
 
