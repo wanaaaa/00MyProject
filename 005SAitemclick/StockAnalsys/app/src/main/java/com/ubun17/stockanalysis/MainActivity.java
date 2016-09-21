@@ -60,9 +60,9 @@ public class MainActivity extends AppCompatActivity {
                 Log.d("Test01", "clicked...................");
                 InputStream inputStream = getResources().openRawResource(R.raw.nasdaq_companylist);
                 CSVFile csvFile = new CSVFile(inputStream);
-                List scoreList = csvFile.read();
-
-                Log.d("csv", String.valueOf(scoreList.get(0)));
+                List<String[]> scoreList = csvFile.read();
+                String test = scoreList.get(1)[0];
+                Log.d("csv", test+"///////////////////////////////////////////////////");
             }
         });//End of Buton01
 

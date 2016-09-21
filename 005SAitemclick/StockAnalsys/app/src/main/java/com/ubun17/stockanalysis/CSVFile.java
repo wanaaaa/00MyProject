@@ -18,15 +18,20 @@ public class CSVFile {
         this.inputStream = inputStream;
     }
 
-    public List read(){
+    public List<String[]> read(){
         List resultList = new ArrayList();
         BufferedReader reader = new BufferedReader(new InputStreamReader(inputStream));
         try {
             String csvLine;
             while ((csvLine = reader.readLine()) != null) {
                 String[] row = csvLine.split(",");
+                //Log.d("row", row[0]);
                 resultList.add(row);
+                //resultList.add(csvLine.toString());
+                //Log.d("inCSVfile", csvLine.toString());
+                //resultList.add(csvLine.toString());
             }
+
         }
         catch (IOException ex) {
             throw new RuntimeException("Error in reading CSV file: "+ex);
