@@ -11,19 +11,17 @@ import android.widget.EditText;
 import android.widget.ListView;
 
 import com.google.gson.Gson;
-import com.ubun17.stockanalysis.APIobjectA.CompanySymbol.LookUpCompanies;
 import com.ubun17.stockanalysis.APIcall.MarkitAsyncCalling;
+import com.ubun17.stockanalysis.APIcall.QuandlAPIasyncByCSV;
+import com.ubun17.stockanalysis.APIobjectA.CompanySymbol.LookUpCompanies;
 
 import java.io.IOException;
-import java.io.InputStream;
 import java.util.ArrayList;
-import java.util.List;
 
 import okhttp3.OkHttpClient;
 import okhttp3.Request;
 
-public class
-MainActivity extends AppCompatActivity {
+public class MainActivity extends AppCompatActivity {
     Button buTest01, butest02, buSearch;
     EditText searchTerm;
 
@@ -58,29 +56,33 @@ MainActivity extends AppCompatActivity {
         buTest01.setOnClickListener(new View.OnClickListener(){
             @Override
             public void onClick (View view) {
+
                 Log.d("Test01", "clicked...................");
-                InputStream inputStream = getResources().openRawResource(R.raw.nasdaq_companylist);
-                CSVFile csvFile = new CSVFile(inputStream);
-                List<String[]> scoreList = csvFile.read();
-                String test = scoreList.get(1)[0];
-                Log.d("csv", test+"///////////////////////////////////////////////////");
+                QuandlAPIasyncByCSV quanCall = new QuandlAPIasyncByCSV();
+                quanCall.execute(MainActivity.this);
 
-                int numCom = scoreList.size();
-                Log.d("the size of scoreList", String.valueOf(numCom));
-                for (int i = 1; i < 15; i ++) {
-                    String stSymbol = scoreList.get(i)[0];
 
-                    Log.d("Symbol List", stSymbol);
-                    MarkitAsyncCalling call = new MarkitAsyncCalling();
-                    call.execute(stSymbol);
-
-                    try {
-                        Thread.sleep(300);
-                    } catch (InterruptedException e) {
-                        e.printStackTrace();
-                    }
-
-                }
+//                InputStream inputStream = getResources().openRawResource(R.raw.nasdaq_companylist);
+//                CSVFile csvFile = new CSVFile(inputStream);
+//                List<String[]> stockList = csvFile.read();
+//                String test = stockList.get(1)[0];
+//                Log.d("csv", test+"///////////////////////////////////////////////////");
+//
+//                int numCom = stockList.size();
+//                Log.d("the size of scoreList", String.valueOf(numCom));
+//                for (int i = 1; i < 15; i ++) {
+//                    String stSymbol = stockList.get(i)[0];
+//
+//                    Log.d("Symbol List", stSymbol);
+//                    MarkitAsyncCalling call = new MarkitAsyncCalling();
+//                    call.execute(stSymbol);
+//
+//                    try {
+//                        Thread.sleep(300);
+//                    } catch (InterruptedException e) {
+//                        e.printStackTrace();
+//                    }
+//                }
             }
         });//End of Buton01
 
